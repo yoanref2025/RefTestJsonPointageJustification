@@ -4,7 +4,8 @@
       "uid": "91184c10-4377-4485-a235-edd1588867fa",
       "uid_r": "f8433ff4-bb03-4a22-a5b3-b49b8a40e00f",
 	  "uid_c": "5a75cafd-5b04-4765-a39e-a4900df6feff",
-      "libelle": "Congés"
+      "libelle": "Congés",
+	  "si_active" : true
     }
   ]
 }
